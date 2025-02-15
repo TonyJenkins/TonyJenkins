@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings! 👋
 
 <!--
 **TonyJenkins/TonyJenkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a Senior Lecturer in Computing at Leeds Beckett University. I specialise in Software Engineering, from Programming, through to Processes. I usually program in Python, but there will also be Java and PHP in these repos.
