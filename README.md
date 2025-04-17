@@ -14,4 +14,4 @@ Most of the code in these repos will be in [Python](https://www.python.org/). We
 
 I am strongly allergic to Microsoft Windows, although I do have a grudging respect for a business that can make so much money out of a product that is so poor.
 
-*greetings@tony-jenkins.org.uk* will find me.
+*greetings@tony-jenkins.me.uk* will find me.
